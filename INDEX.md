@@ -1,8 +1,8 @@
 # ALNS
 
  👋 Hi, I’m @RaymondPool
-- 👀 I’m interested in test1
-- 🌱 I’m currently learning test1
+- 👀 I’m interested in test12
+- 🌱 I’m currently learning test12
 - 💞️ I’m looking to collaborate on Zoom
 - 📫 How to reach me ray.pool@ymail.com 
 
